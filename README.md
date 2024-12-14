@@ -54,4 +54,11 @@ Displays visuals or descriptions related to the theme.
 
 ---
 
-## Contrib
+## Contributing
+Contributions are welcome! Fork this repository, make your changes, and submit a pull request to improve this project.
+
+---
+
+## About
+A static, responsive web project built using HTML and CSS to demonstrate beginner-level web development skills.
+
